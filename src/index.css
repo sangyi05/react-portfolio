@@ -16,10 +16,18 @@ code {
   display: flex;
   list-style: none;
   font-size: 17px;
-  justify-content: space-between;
+  justify-content: space-between ;
 }
 
 .nav-bar a.active {
   background-color: #04AA6D;
   color: white;
+}
+
+
+footer {
+  display: flex;
+  list-style: none;
+  font-size: 17px;
+  justify-content: space-around;
 }
