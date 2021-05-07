@@ -7,7 +7,7 @@ import safePassage from "../../assets/images/safe-passage.png"
 import cornstocks from "../../assets/images/cornstocks.png"
 
 const Projects = () => (
-  <div className="flex-row">
+  <div>
     <h1>Portfolio</h1>
     <div>
       <a href="https://sangyi05.github.io/run-buddy/"><img src={runBuddy} className="img-thumbnail mx-1"></img></a>

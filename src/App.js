@@ -3,8 +3,8 @@ import PortfolioContainer from "./components/PortfolioContainer";
 
 function App() {
     return (
-        <div className="main">
-            <PortfolioContainer />
+        <div>
+            <PortfolioContainer/>
             <footer>
                 <ul><a href="https://www.linkedin.com/in/sang-helen-yi-96a5ab121/">LinkedIn</a></ul>
                 <ul><a href="https://github.com/sangyi05">GitHub</a></ul>
