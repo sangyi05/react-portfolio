@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #dde7c7;
 }
 
 code {
@@ -18,6 +19,9 @@ code {
   font-size: 17px;
   justify-content: space-between ;
   margin: 3%;
+  background-color: #77bfa3;
+  margin: 0;
+  padding: 2%;
 }
 
 .nav-bar a.active {
@@ -33,19 +37,23 @@ code {
   padding: 15%;
 }
 
-.contact {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
-  border: 1px solid #ccc; /* Gray border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
-  resize: vertical
+img {
+  width: 50%;
+  padding-left: 10%;
+
+}
+
+a {
+  padding-left: 5%;
+
 }
 
 footer {
   display: flex;
   list-style: none;
   position: bottom;
+  bottom: 0; 
+  width: 100%;
+  justify-content: center;
+  background-color: #bfd8bd
 }
