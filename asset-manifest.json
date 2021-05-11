@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c10d9b76.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.40bef477.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.40bef477.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.e530417f.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.e530417f.js.map",
+    "static/js/2.46b51f28.chunk.js": "/react-portfolio/static/js/2.46b51f28.chunk.js",
+    "static/js/2.46b51f28.chunk.js.map": "/react-portfolio/static/js/2.46b51f28.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.c10d9b76.chunk.css.map": "/react-portfolio/static/css/main.c10d9b76.chunk.css.map",
+    "static/js/2.46b51f28.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.46b51f28.chunk.js.LICENSE.txt",
+    "static/media/IMG_0216.3ef67f4d.jpg": "/react-portfolio/static/media/IMG_0216.3ef67f4d.jpg",
+    "static/media/cornstocks.1c80ac89.png": "/react-portfolio/static/media/cornstocks.1c80ac89.png",
+    "static/media/day-scheduler.d891dd6a.png": "/react-portfolio/static/media/day-scheduler.d891dd6a.png",
+    "static/media/horiseon.b294058e.png": "/react-portfolio/static/media/horiseon.b294058e.png",
+    "static/media/run-buddy.555fe445.png": "/react-portfolio/static/media/run-buddy.555fe445.png",
+    "static/media/safe-passage.af4fb5e2.png": "/react-portfolio/static/media/safe-passage.af4fb5e2.png",
+    "static/media/weather.fe4064a2.png": "/react-portfolio/static/media/weather.fe4064a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e530417f.js",
+    "static/js/2.46b51f28.chunk.js",
+    "static/css/main.c10d9b76.chunk.css",
+    "static/js/main.40bef477.chunk.js"
+  ]
+}
