@@ -13,4 +13,3 @@ This site is a deployed React portfolio of work samples. It features links to a 
 
 ## Deployed Website
 https://sangyi05.github.io/react-portfolio/
-https://github.com/sangyi05/react-portfolio
