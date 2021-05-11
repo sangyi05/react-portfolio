@@ -45,7 +45,18 @@ img {
 
 a {
   padding-left: 5%;
+}
 
+.contact {
+  margin-left: 10%;
+}
+
+.resume {
+  padding-left: 5%;
+}
+
+.title {
+  padding-left: 3%;
 }
 
 footer {
