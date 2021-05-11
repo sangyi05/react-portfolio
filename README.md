@@ -11,6 +11,6 @@ This site is a deployed React portfolio of work samples. It features links to a 
 * JavaScript
 * CSS
 
-## Websites
-Deployed Website: https://sangyi05.github.io/react-portfolio/
-GitHub: https://github.com/sangyi05/react-portfolio
+## Deployed Website
+https://sangyi05.github.io/react-portfolio/
+https://github.com/sangyi05/react-portfolio
