@@ -5,6 +5,7 @@ import dayScheduler from "../../assets/images/day-scheduler.png"
 import horiseon from "../../assets/images/horiseon.png"
 import safePassage from "../../assets/images/safe-passage.png"
 import cornstocks from "../../assets/images/cornstocks.png"
+import foodChain from "../../assets/images/food-chain.png"
 
 const Projects = () => (
   <div>
@@ -38,6 +39,11 @@ const Projects = () => (
       <img src={cornstocks}></img>
       <a href="https://cornstocks-10-team.herokuapp.com/">Cornstocks Website</a>
       <a href="https://github.com/subin-su/Project02-Requirements">Cornstocks GitHub</a>
+    </div>
+    <div>
+      <img src={foodChain}></img>
+      <a href="https://thefoodchain.herokuapp.com/">The Food Chain Website</a>
+      <a href="https://github.com/subin-su/Project02-Requirements">The Food Chain GitHub</a>
     </div>
   </div>
 );
