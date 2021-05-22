@@ -45,7 +45,7 @@ const Projects = () => (
       <a href="https://thefoodchain.herokuapp.com/">The Food Chain Website</a>
       <a href="https://github.com/subin-su/Project02-Requirements">The Food Chain GitHub</a>
     </div>
-  </div>
+  </div> 
 );
 
 export default Projects;
